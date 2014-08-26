@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Tools">
+            <file name="org.asporg.newModuleASP.instance"/>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Tools">
+            <file name="org.asporg.newModuleASP.shadow">
+                <attr name="originalFile"
+                      stringvalue="Actions/Tools/org-asporg-newModuleASP.instance"/>
+                <attr name="position" intvalue="150"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Toolbars">
+        <folder name="Build">
+            <file name="org-asporg-newModuleASP.shadow">
+                <attr name="SystemFileSystem.localizingBundle" 
+                      stringvalue="newModuleASP.Bundle">
+                </attr>
+                <attr name="originalFile" 
+                      stringvalue="Actions/Tools/org-asporg-newModuleASP.instance"/>
+                <attr name="position" intvalue="325"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Templates">
+        <folder name="other">
+            <file name="ASPTemplate.asp" url="ASPTemplate.asp">
+                <attr name="SystemFileSystem.localizingBundle" stringvalue="newModuleASP.Bundle"></attr>
+                <attr name="template" boovalue="true"></attr>
+                <attr name="templateWizardURL"
+                      urlvalue="nbresloc:nbproject/html/ASPDescription.asp"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
